@@ -1,0 +1,30 @@
+{
+  "sourceCommit": "1a885d283b4e8666ebf670eb83adfb71df06cbbb",
+  "inputs": {
+    "assets/index-2S4pg3Ya.css": "fbd4fe8fa9788cdb921dcee9bd6bc06948a4f1a2fbf713fa3beac32116592b5b",
+    "assets/index-DQKZfaAF.js": "38c2582783e016fae8cfaa43f2c80bbe79a839186e9a4735f0f5ebf0db890820",
+    "index.html": "164f4743348e876fab4a7aa2c9314931df596ab7b4f392643e6a8f12ab57771e"
+  },
+  "capturedAt": "2026-11-07T00:11:00Z",
+  "baseUrl": "http://127.0.0.1:62067/",
+  "tool": {
+    "name": "Playwright",
+    "version": "1.63.0"
+  },
+  "browser": {
+    "name": "Chromium",
+    "version": "153.0.8010.12"
+  },
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "steps": [
+    "Serve the unchanged production dist build over http://127.0.0.1 on an ephemeral port.",
+    "Open a clean Chromium context at 1440 × 1000, en-US, UTC, device scale 1.",
+    "Click Begin expedition with the default Field trip pace.",
+    "Use F four times to throw Ember scouts at the initial Navigation prism target, then allow them to lift and carry it toward the landing nest."
+  ],
+  "deployedBuild": null,
+  "notes": "Real public-control gameplay, locally served production artifact; browser pixels unedited. No save/state injection, no simulated screenshot, no deployed-build equivalence claimed."
+}

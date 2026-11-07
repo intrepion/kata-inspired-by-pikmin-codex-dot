@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 3,
+  "gameId": "kata-inspired-by-pikmin-codex-dot",
+  "playUrl": "https://intrepion.github.io/kata-inspired-by-pikmin-codex-dot/",
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/morrow-20261107-01.jpg",
+      "sha256": "7405a8e4f36f40baf1ea11784e43b00ebf9b4434a94a26258bb743bd4032c1c5",
+      "alt": "Morrow Garden local gameplay: Ember scouts carry the Navigation prism through an original 3D garden while the captain leads a three-color crew, with daylight, component and squad HUD.",
+      "provenance": {
+        "kind": "local_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/morrow-20261107-01.png",
+        "sourceSha256": "90b93b5ba7bb4d101a8b51d698226205c0e213d8d9484a90c233954bf9e6f690",
+        "captureCommit": "1a885d283b4e8666ebf670eb83adfb71df06cbbb",
+        "inputHashes": {
+          "assets/index-2S4pg3Ya.css": "fbd4fe8fa9788cdb921dcee9bd6bc06948a4f1a2fbf713fa3beac32116592b5b",
+          "assets/index-DQKZfaAF.js": "38c2582783e016fae8cfaa43f2c80bbe79a839186e9a4735f0f5ebf0db890820",
+          "index.html": "164f4743348e876fab4a7aa2c9314931df596ab7b4f392643e6a8f12ab57771e"
+        },
+        "capturedAt": "2026-11-07T00:11:00Z",
+        "captureRecordPath": "arcade/capture-evidence/morrow-20261107-01.json",
+        "captureRecordSha256": "77d3757ace0ad2ecc0592d6f9b2a2e1f74a46bf53c580654470d2297b0f9ef61"
+      }
+    },
+    {
+      "path": "arcade/screenshots/morrow-20261107-02.jpg",
+      "sha256": "73c2a2a1bd062d8e10f5f84e54d0c77e8470bc59a11b2c446cd1a2b6a21f5819",
+      "alt": "Morrow Garden local gameplay during a Mossback encounter, after recovering the first component, with thrown scouts, original low-poly garden scenery, field map and squad controls.",
+      "provenance": {
+        "kind": "local_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/morrow-20261107-02.png",
+        "sourceSha256": "0934ca7fbed23bdc68b2a0be047c21952d6ff3c8354d11f410315dfecfca3a1a",
+        "captureCommit": "1a885d283b4e8666ebf670eb83adfb71df06cbbb",
+        "inputHashes": {
+          "assets/index-2S4pg3Ya.css": "fbd4fe8fa9788cdb921dcee9bd6bc06948a4f1a2fbf713fa3beac32116592b5b",
+          "assets/index-DQKZfaAF.js": "38c2582783e016fae8cfaa43f2c80bbe79a839186e9a4735f0f5ebf0db890820",
+          "index.html": "164f4743348e876fab4a7aa2c9314931df596ab7b4f392643e6a8f12ab57771e"
+        },
+        "capturedAt": "2026-11-07T00:11:00Z",
+        "captureRecordPath": "arcade/capture-evidence/morrow-20261107-02.json",
+        "captureRecordSha256": "cf12e90fd28e2b3ea16533ce998c715a22584832c24205413453d7b2adc29597"
+      }
+    }
+  ]
+}
