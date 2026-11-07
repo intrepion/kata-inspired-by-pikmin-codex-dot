@@ -2,9 +2,9 @@
 
 An original 3D squad expedition inspired by **Pikmin 1**. Lead a tiny crew through a miniature garden, divide up work, recover a stranded ship and bring everyone home before sunset.
 
-[← Back to Kata Arcade](https://intrepion.github.io/)
+[**Play Morrow Garden →**](https://intrepion.github.io/kata-inspired-by-pikmin-codex-dot/) · [← Back to Kata Arcade](https://intrepion.github.io/)
 
-**Status:** local playable reconstruction. Not published. Mechanics and content are not certified one-to-one with Nintendo's game. Read the [research and fidelity notes](docs/GAMEPLAY.md) for the precise scope.
+**Status:** playable mechanical reconstruction. Mechanics and content are not certified one-to-one with Nintendo's game. Read the [research and fidelity notes](docs/GAMEPLAY.md) for the precise scope.
 
 ## Play locally
 
@@ -76,7 +76,7 @@ The game ships as a static site. All runtime graphics are generated locally, wit
 
 ## Kata Arcade integration
 
-The Arcade checkout has a staged **source-only/workbench** entry. Its integrity rules require publication and live verification before adding a play link or importing game screenshots. The intended eventual game URL is `https://intrepion.github.io/kata-inspired-by-pikmin-codex-dot/`; it is **not a verified live link**. Publication is a separate approval step.
+The game is part of [Kata Arcade](https://intrepion.github.io/). The game-owned screenshot manifest preserves real local gameplay captures and their source/build hashes. Arcade imports them after verifying the public deployment.
 
 ## License
 

@@ -1,6 +1,6 @@
 # Verification record
 
-Verified locally on November 7, 2026. No GitHub repository creation, push, Pages deployment or public gameplay verification was performed.
+Pre-publication verification completed locally on November 7, 2026. The checks below record that local snapshot; publication and current deployment status are tracked separately in GitHub Actions and the Kata Arcade catalog.
 
 ## Passed
 
@@ -11,7 +11,7 @@ Verified locally on November 7, 2026. No GitHub repository creation, push, Pages
 - `npm run capture:arcade`: two unedited browser gameplay captures, with a loopback source URL, browser/tool versions, action record, source commit and production-input SHA256 hashes. Both images were visually reviewed.
 - `git diff --check`: no whitespace errors.
 
-The Arcade's local catalog integration also passed its Astro check, catalog tests and build. It remains source-only until a public deployment has been authorized and verified.
+The Arcade's local catalog integration also passed its Astro check, catalog tests and build. The catalog requires a verified public deployment before exposing its play link and screenshots.
 
 ## Evidence
 
